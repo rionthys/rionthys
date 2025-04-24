@@ -2,7 +2,7 @@
 
 ### 📫 How to reach me
 
-- Email: `serdiudumitras@gmail.com`
+- Email: [serdiudumitras@gmail.com](mailto:serdiudumitras@gmail.com)
 - Telegram: [@SergiuDumitras](https://t.me/SergiuDumitras)
 
 <!--
